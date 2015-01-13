@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="AudioKnight.RecordingStatusControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+    <Grid>
+		<StackPanel Orientation="Vertical">
+			<StackPanel Orientation="Horizontal">
+				<Ellipse Margin="10" Height="30" Width="30" Opacity="0.5">
+					<Ellipse.Fill>
+						<RadialGradientBrush>
+							<GradientStop Color="Red" Offset="0" />
+							<GradientStop Color="Red" Offset="0.5" />
+							<GradientStop Color="Transparent" Offset="1" />
+						</RadialGradientBrush>
+					</Ellipse.Fill>
+					<Ellipse.Triggers>
+						<EventTrigger RoutedEvent="Ellipse.Loaded">
+							<BeginStoryboard>
+								<Storyboard RepeatBehavior="Forever">
+									<DoubleAnimation Storyboard.TargetProperty="Opacity"
+													From="0.5" To="1" Duration="0:0:1" />
+									<DoubleAnimation Storyboard.TargetProperty="Opacity"
+													From="1" To="0.5" Duration="0:0:1" Timeline.BeginTime="0:0:1" />								
+								</Storyboard>
+							</BeginStoryboard>
+						</EventTrigger>
+					</Ellipse.Triggers>
+				</Ellipse>
+				
+				<Label Content="Recording" FontWeight="Bold" FontSize="20" VerticalAlignment="Center"/>
+				<Label Content="{Binding Path=RecordingVm.RecordingDurationDisplay, Mode=OneWay}" 
+					   FontSize="15" VerticalAlignment="Center" Margin="30,5,5,5" />
+			</StackPanel>
+
+			<ItemsControl Margin="50,5" ItemsSource="{Binding Path=RecordingVm.OutputFiles, Mode=OneWay}"
+						  Grid.IsSharedSizeScope="True">
+				<ItemsControl.ItemTemplate>
+					<DataTemplate>
+						<Grid>
+							<Grid.ColumnDefinitions>
+								<ColumnDefinition MinWidth="100" MaxWidth="200" Width="Auto" SharedSizeGroup="NameCol" />
+								<ColumnDefinition MinWidth="100" Width="Auto" SharedSizeGroup="TruncatedPathCol" />
+								<ColumnDefinition MinWidth="100" MaxWidth="50" Width="Auto" SharedSizeGroup="OutputSizeCol" />
+							</Grid.ColumnDefinitions>
+							<Label Content="{Binding Path=ChannelDefinition.Name, Mode=OneWay}" Margin="5" Grid.Column="0" />
+							<Label Content="{Binding Path=TruncatedOutputPath, Mode=OneWay}" Margin="5" Grid.Column="1" />
+							<Label Content="{Binding Path=OutputSizeBytesDisplay, Mode=OneWay}" Margin="5" Grid.Column="2" />
+						</Grid>
+					</DataTemplate>
+				</ItemsControl.ItemTemplate>
+			</ItemsControl>
+			<Button Content="Stop" HorizontalAlignment="Left" 
+					Margin="10" Command="{DynamicResource StopRecordingCommand}"/>
+		</StackPanel>
+    </Grid>
+</UserControl>

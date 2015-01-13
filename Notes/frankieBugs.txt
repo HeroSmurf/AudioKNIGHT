@@ -1,0 +1,227 @@
+BICESTER
+
+86.26.47.1
+
+?<18:11:45> "Hero Smurf": hey
+?<18:15:16> "FRANKIEonPC": hey hero
+?<18:15:20> "FRANKIEonPC": sorry just got ur msg
+?<18:15:51> "Hero Smurf": cool; which one? The audio program I built?
+?<18:15:54> "FRANKIEonPC": yer
+?<18:16:16> "Hero Smurf": awesome :) I built it for bullet
+?<18:16:17> "FRANKIEonPC": basically
+?<18:16:20> "FRANKIEonPC": whose bullet
+?<18:16:24> "Hero Smurf": He makes videos for us
+?<18:16:26> "FRANKIEonPC": ah
+?<18:16:33> "FRANKIEonPC": well
+?<18:16:36> "FRANKIEonPC": i have a small problem
+?<18:16:39> "FRANKIEonPC": when using it
+?<18:16:44> "FRANKIEonPC": sometimes
+?<18:17:27> "FRANKIEonPC": when i record 3 tracks
+?<18:17:31> "FRANKIEonPC": it doesnt record them fully
+?<18:17:38> "Hero Smurf": errrrrrr yuck.
+?<18:17:45> "FRANKIEonPC": so
+?<18:17:46> "Hero Smurf": how so?
+?<18:17:56> "FRANKIEonPC": I record Line 1 , Line 2, Microphone
+?<18:18:04> "FRANKIEonPC": Recorded some Arma 2 last night
+?<18:18:10> "FRANKIEonPC": Line 1 was like 45min in length
+?<18:18:16> "FRANKIEonPC": which was full length of recording
+?<18:18:21> "FRANKIEonPC": Line 2 was 17min
+?<18:18:25> "FRANKIEonPC": and Microphone was like 5min
+?<18:18:36> "FRANKIEonPC": but i start.stop recorded just once at beginning end of session
+?<18:18:41> "Hero Smurf": damn; ok what format ?
+?<18:18:47> "FRANKIEonPC": just default wmv
+?<18:18:48> "FRANKIEonPC": but wierdly
+?<18:18:52> "FRANKIEonPC": everything is wmv
+?<18:19:09> "FRANKIEonPC": oh wait no it isn
+?<18:19:10> "FRANKIEonPC": lols
+?<18:19:12> "Hero Smurf": alright I haven't tested much with wmv let me run some ...
+?<18:19:23> "FRANKIEonPC": just confuses as says .wav when recording
+?<18:19:25> "FRANKIEonPC": even to mp3 etc.
+?<18:19:33> "FRANKIEonPC": but end file in mp3
+?<18:19:33> "Hero Smurf": got it
+?<18:19:43> "FRANKIEonPC": but not sure why its not recording full length of clip
+?<18:19:45> "FRANKIEonPC": also what is wierd
+?<18:19:52> "FRANKIEonPC": is if i have nothing on Line 2
+?<18:19:56> "FRANKIEonPC": as that is skype
+?<18:20:01> "FRANKIEonPC": when i connect to friends on skype
+?<18:20:06> "FRANKIEonPC": size of file gets bigger
+?<18:20:11> "FRANKIEonPC": in knight
+?<18:20:18> "FRANKIEonPC": even if i wait say 20min
+?<18:20:23> "FRANKIEonPC": before connecting to talk with then
+?<18:20:28> "FRANKIEonPC": you can see file size going up as I speak
+?<18:20:35> "FRANKIEonPC": so is definitely recording
+?<18:20:36> "FRANKIEonPC": is just end files
+?<18:20:40> "FRANKIEonPC": dont have full length
+?<18:21:27> "FRANKIEonPC": am using VAC to split audio
+?<18:21:37> "FRANKIEonPC": so have 2 VAC kernels running
+?<18:21:39> "FRANKIEonPC": whilst playing
+?<18:21:39> "Hero Smurf": can I drag you in my channel?
+?<18:21:44> "FRANKIEonPC": yer sure
+?<19:10:40> "Hero Smurf": looks good so far
+?<19:10:50> "FRANKIEonPC": hey
+?<19:10:56> "FRANKIEonPC": yer seems to have been ok this time
+?<19:11:09> "FRANKIEonPC": did screw it up though i think
+?<19:11:13> "Hero Smurf": Trying it now with ARMA2, 1 mic, 1 speaker channel (SPDIF going into A40 mixer)
+?<19:11:16> "FRANKIEonPC": as i dragged into vegas too early to check length
+?<19:11:23> "Hero Smurf": ahhhhhhhhhhhhhhhhhhhhhhhhh... maybe
+?<19:11:26> "FRANKIEonPC": so it interrupted it compiling it
+?<19:11:29> "Hero Smurf": oh ok
+?<19:11:33> "FRANKIEonPC": but the other times has just been short
+?<19:11:35> "FRANKIEonPC": ill try again
+?<19:11:37> "FRANKIEonPC": for next 10min
+?<19:11:38> "Hero Smurf": I can save the files somewhere else like temp
+?<19:11:39> "Hero Smurf": to avoid that
+?<19:11:48> "FRANKIEonPC": Ah yer that might work
+?<19:11:50> "Hero Smurf": while I'm testing this...
+?<19:12:04> "Hero Smurf": Can you make 6 fans of yours very happy and come say "Hi" in "Knight squad" ? the channel above u
+?<19:15:26> "FRANKIEonPC": btw is there any way to put a converting progress bar
+?<19:15:30> "FRANKIEonPC": so you know when the files are converted
+?<19:15:32> "FRANKIEonPC": after recording
+?<19:15:40> "Hero Smurf": should be instant you have an SSD right?
+?<19:15:45> "FRANKIEonPC": nah
+?<19:15:52> "Hero Smurf": ok will do
+?<19:15:56> "FRANKIEonPC": records onto a HDD
+?<19:16:01> "FRANKIEonPC": as too little space per money on SSD
+?<19:16:16> "Hero Smurf": Can I get 30 seconds of voice on this channel?
+?<19:16:23> "Hero Smurf": These folks in here are big fans and wanted to say hi
+?<19:16:28> "Hero Smurf": Next time come on with a different name maybe :P
+?<19:16:50> "FRANKIEonPC": well my gf is sleeping now :D
+?<19:16:56> "FRANKIEonPC": so i cnat really talk
+?<19:16:57> "Hero Smurf": ok no problem
+?<19:17:15> "FRANKIEonPC": she has much wrath lols
+?<19:18:25> "Hero Smurf": ahhhh indeed.
+?<19:18:38> "Hero Smurf": You should think about doing recording to even a small 40GB SSD and then moving it manually to a larger one
+?<19:19:33> "Hero Smurf": Do you find there is a difference between ARMA2 and Battlefield/Rust? length of files/performance?
+?<19:44:47> "FRANKIEonPC": ok
+?<19:44:50> "FRANKIEonPC": it glitched this time
+?<19:44:56> "Hero Smurf": excellent. caught it in the act
+?<19:45:22> "Hero Smurf": what are the input / output types... output formats... and end lengths?
+?<19:45:28> "FRANKIEonPC": Line 1 is 25:56 long and lines 2 and Microphone are 28:08 long
+?<19:45:41> "FRANKIEonPC": full length is 28:08
+?<19:45:42> "Hero Smurf": ok and what is line 1?
+?<19:45:47> "FRANKIEonPC": in-game audio
+?<19:45:56> "Hero Smurf": Ok ... Use Shadowplay for in game audio
+?<19:46:06> "FRANKIEonPC": sometimes is line 2 though
+?<19:46:10> "FRANKIEonPC": and need line 1 to match it up
+?<19:46:14> "FRANKIEonPC": just happens to be line 1 this time
+?<19:46:31> "Hero Smurf": ok not sure I understand why... could it be you were alt tabbed and the audio didn't begin on the game?
+?<19:46:57> "FRANKIEonPC": doesnt the recorder just record
+?<19:47:10> "FRANKIEonPC": so not dependent on whether that channel has something going on in it
+?<19:47:25> "Hero Smurf": depends on the device actually
+?<19:47:33> "Hero Smurf": It's all being channeled through a windows API
+?<19:47:49> "FRANKIEonPC": whats that
+?<19:48:09> "Hero Smurf": Microsoft does not provide a public API for this speaker configuration page -- the property is exposed as read-only in Window's APIs.
+?<19:48:23> "FRANKIEonPC": the devices dont ever switch off
+?<19:48:34> "FRANKIEonPC": so Line 1 / Line 2 / Microphone always available
+?<19:48:42> "Hero Smurf": right but it's just header until it starts sending data
+?<19:48:45> "FRANKIEonPC": sometimes they dont have audio playing, but cant you set it so it records full length
+?<19:48:54> "Hero Smurf": maybe I can get it to put place holder audio
+?<19:49:02> "Hero Smurf": I'm not even 100% sure that's the problem but I can investigate
+?<19:49:16> "FRANKIEonPC": other thing is
+?<19:49:20> "FRANKIEonPC": My line 2 just then
+?<19:49:24> "FRANKIEonPC": had nothing playing the whole time
+?<19:49:27> "FRANKIEonPC": but was recorded correctly
+?<19:49:42> "FRANKIEonPC": line 1 had game audio the full time
+?<19:49:45> "Hero Smurf": weird. can you screenshot your device menu?
+?<19:49:47> "FRANKIEonPC": but was short
+?<19:49:54> "FRANKIEonPC": wotcha mean
+?<19:50:27> "Hero Smurf": I'm not sure on what devices you have line 1 etc
+?<19:50:44> "Hero Smurf": I have the Astro A40s, and I have 3 output/inputs
+?<19:50:49> "FRANKIEonPC": ok 1 sec
+?<19:51:42> "FRANKIEonPC": i don't understand what is causing it to stop recording
+?<19:51:58> "FRANKIEonPC": because you can see the file size increasing during the recording session
+?<19:52:06> "Hero Smurf": Oh sorry... Ok so the beginning of the file is fine?
+?<19:52:22> "FRANKIEonPC": so even in the last minute of one that glitched it adds MB to the track that gets shortened
+?<19:52:32> "FRANKIEonPC": then the track gets shortened when I paly it back after stopping recording
+?<19:52:37> "FRANKIEonPC": its like it fails to compile the full track
+?<19:52:40> "FRANKIEonPC": or the parts of it
+?<19:52:40> "FRANKIEonPC": yer
+?<19:52:44> "FRANKIEonPC": start is always fine
+?<19:52:53> "FRANKIEonPC": just not full length of recording session recorded across all tracks
+?<19:53:00> "FRANKIEonPC": sometimes is like 10% of full length
+?<19:53:23> "FRANKIEonPC": sometimes as this time 90% / 100% / 100% sometimes like 40% / 60% / 100%
+?<19:53:29> "FRANKIEonPC": one track always gets 100%
+?<19:53:42> "FRANKIEonPC": but other two randomly seem to miss their ending
+?<19:54:09> "Hero Smurf": ok that's easier to fix than the other possibility
+?<19:54:19> "Hero Smurf": but I need to change the app to have some basic logging
+?<19:54:26> "FRANKIEonPC": if i close the app
+?<19:54:29> "FRANKIEonPC": will that fuck it up?
+?<19:54:37> "FRANKIEonPC": from saving what it has cached?
+?<19:54:49> "Hero Smurf": so I can see what fucks up @ 25:56
+?<19:54:56> "Hero Smurf": uhhh YES
+?<19:54:59> "Hero Smurf": that will definitely fuck it up
+?<19:55:02> "FRANKIEonPC": i wonder if yesterday I closed it too early
+?<19:55:08> "FRANKIEonPC": and it only had time to save part of Line 1 and Line 2
+?<19:55:13> "FRANKIEonPC": wouldn't explain today though
+?<19:55:20> "FRANKIEonPC": cos you put a warning in
+?<19:55:20> "Hero Smurf": so depending on the size of the data....
+?<19:55:28> "Hero Smurf": you could have just dumped the buffer
+?<19:55:29> "FRANKIEonPC": how long would like 2 hours of recording take to convert?
+?<19:55:43> "Hero Smurf": well it's doing it live
+?<19:55:45> "Hero Smurf": but there is a buffer
+?<19:55:48> "FRANKIEonPC": hm
+?<19:55:50> "Hero Smurf": I can increase or decrease it
+?<19:56:00> "FRANKIEonPC": what does it buffer into?
+?<19:56:01> "FRANKIEonPC": RAM?
+?<19:56:03> "Hero Smurf": Decrease will make it save more often
+?<19:56:09> "Hero Smurf": like eating a can of beats to save your medical data :P
+?<19:56:16> "Hero Smurf": yeah ram
+?<19:56:22> "FRANKIEonPC": ok got 64GB should be good
+?<19:56:23> "FRANKIEonPC": lol
+?<19:56:31> "Hero Smurf": ?!@ =0
+?<19:56:31> "Hero Smurf": ok
+?<19:56:36> "Hero Smurf": well let me do 2 things
+?<19:56:45> "Hero Smurf": #1... I'll save it to temp so you don't accidentally drag into Vegas before its done
+?<19:56:46> "FRANKIEonPC": ill do one more test now to see
+?<19:56:52> "FRANKIEonPC": also can you put a coverting warning in
+?<19:56:58> "Hero Smurf": #2. I'll make it have a smaller buffer or a warning if you try to close it
+?<19:56:58> "FRANKIEonPC": so i don't accidentally close the app
+?<19:57:01> "FRANKIEonPC": yer
+?<19:57:05> "FRANKIEonPC": cos i dont know when its finished
+?<19:57:11> "FRANKIEonPC": progress bar would be good unless its a lot of work
+?<19:57:35> "Hero Smurf": No it's fine but it shouldn't take too long after you hit stop
+?<19:57:42> "Hero Smurf": 1-2 seconds really
+?<19:57:45> "Hero Smurf": When you hit stop does it hang?
+?<19:57:49> "FRANKIEonPC": nah
+?<19:57:53> "FRANKIEonPC": does it instantly
+?<19:57:55> "FRANKIEonPC": i think
+?<19:57:58> "Hero Smurf": ok so it should be fine
+?<19:58:04> "FRANKIEonPC": but then i see Line 1 and Line 2 multiple times appearing
+?<19:58:05> "Hero Smurf": #3... Logs
+?<19:58:06> "FRANKIEonPC": in the folder
+?<19:58:12> "FRANKIEonPC": so its doing something
+?<19:58:31> "Hero Smurf": You've ruined my night though... all the randoms on this server flocked to the room
+?<19:58:35> "Hero Smurf": and I had to add you as admin and hide you
+?<19:58:42> "FRANKIEonPC": lol :D
+?<19:59:02> "Hero Smurf": haha but so glad you're using it... I'll add those two things and resend in 12-24 hours
+?<19:59:27> "FRANKIEonPC": awesome
+?<19:59:32> "FRANKIEonPC": i think might be user error perhaps
+?<19:59:38> "FRANKIEonPC": not knowing when safe to close
+?<19:59:39> "Hero Smurf": 50% yes lol
+?<20:00:03> "Hero Smurf": but the buffer and some basic warnings should help
+?<20:00:16> "FRANKIEonPC": well then we know
+?<20:00:18> "FRANKIEonPC": if its me fucking up
+?<20:00:31> "FRANKIEonPC": but tbh didnt know closing affected saving
+?<20:00:35> "FRANKIEonPC": just thought it was done
+?<20:00:44> "FRANKIEonPC": upon pressing stop
+?<20:00:46> "Hero Smurf": ahh! gotcha
+?<20:00:56> "Hero Smurf": well yeah it should be done before you can hit X
+?<20:00:59> "Hero Smurf": after you hit stop
+?<20:01:19> "Hero Smurf": so that' swhere the logging / progress bar will help
+?<20:01:27> "FRANKIEonPC": yup
+?<20:01:37> "FRANKIEonPC": damn ok ill try leaving it a good 30min this time
+?<20:01:39> "FRANKIEonPC": after a 25min recording
+?<20:01:42> "FRANKIEonPC": see if that fixes it
+?<20:01:58> "FRANKIEonPC": then when progress bar in know when safe
+?<20:02:22> "Hero Smurf": I know you're a sucker for things in Alpha
+?<20:02:32> "FRANKIEonPC": lol
+?<20:02:45> "Hero Smurf": so thanks for helping should be an easy fix
+?<20:03:09> "FRANKIEonPC": awesome right gonna go sleep
+?<20:03:16> "FRANKIEonPC": can you message me on YouTUbe
+?<20:03:18> "Hero Smurf": k; will do
+?<20:03:19> "FRANKIEonPC": when it is sorted
+?<20:03:23> "FRANKIEonPC": thanks for helping man
+?<20:03:27> "FRANKIEonPC": such a useful tool
+?<20:03:36> "Hero Smurf": My pleasure! what a great user to have
+?<20:03:37> "Hero Smurf": later
+?<20:03:45> Your chat partner has disconnected.
