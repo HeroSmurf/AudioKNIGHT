@@ -138,7 +138,10 @@ namespace AudioKnight
 					} else
 					{
 						capture = new WasapiLoopbackCapture(device);
+					    
 						silencePlayer = new WasapiOut(device, AudioClientShareMode.Shared, false, 100);
+                        //silencePlayer.
+					    //MessageBox.Show(silencePlayer.OutputWaveFormat.ToString());
 						silencePlayer.Init(new SilentSampleProvider());
 						silencePlayer.Play();
 					}

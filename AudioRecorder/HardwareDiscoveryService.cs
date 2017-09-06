@@ -110,9 +110,11 @@ namespace AudioKnight
 			// create an enumerator to list devices
 			MMDeviceEnumerator deviceEnum = new MMDeviceEnumerator();
 			MMDeviceCollection deviceCol = deviceEnum.EnumerateAudioEndPoints(
-				DataFlow.All, NAudio.CoreAudioApi.DeviceState.Active | 
-				NAudio.CoreAudioApi.DeviceState.Disabled | 
-				NAudio.CoreAudioApi.DeviceState.Unplugged);
+				DataFlow.All, NAudio.CoreAudioApi.DeviceState.Active 
+				);
+
+            //NAudio.CoreAudioApi.DeviceState.Disabled | 
+			//NAudio.CoreAudioApi.DeviceState.Unplugged
 			
 			var deviceList = new List<DeviceViewModel>();
 

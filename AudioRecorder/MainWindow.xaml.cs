@@ -81,6 +81,7 @@ namespace AudioKnight
 			_hardwareService = new HardwareDiscoveryService(new WindowInteropHelper(this).Handle);
 			_hardwareService.DevicesChanged += (sender, args) => LoadDevices();
 			_hardwareService.StartListening();
+            //_hardwareService.
 			LoadDevices();
 
 			// load the stored channels and convert them to view models
@@ -287,7 +288,8 @@ namespace AudioKnight
 				var outputfiles = _captureService.StartRecording(selectedChannels, outputFolder);
 
 				// nothing to record -- either not plugged in or not enabled
-				if (!outputfiles.Any())
+			    var outputFileViewModels = outputfiles as OutputFileViewModel[] ?? outputfiles.ToArray();
+			    if (!outputFileViewModels.Any())
 				{
 					MessageBox.Show("Warning: Either no channels are enabled or none " + 
 						"of the associated devices are ready. No recording has been started.");
@@ -295,11 +297,12 @@ namespace AudioKnight
 					return;
 				}
 
-				this._viewModel.RecordingVm.OutputFiles =
-					new ObservableCollection<OutputFileViewModel>(outputfiles);
+				_viewModel.RecordingVm.OutputFiles =
+					new ObservableCollection<OutputFileViewModel>(outputFileViewModels);
 			} catch (Exception ex)
 			{
-				MessageBox.Show(string.Format("Failed to start recording!\n{0}", ex.Message));
+				//MessageBox.Show(string.Format("Nope. No recording!\n{0}", ex.Message));
+                Log.Debug($"Nope. No recording!\n{ex.Message}");
 			}
 		}
 
